@@ -1,0 +1,250 @@
+Country name: Aruba, Wiki Link: https://en.wikipedia.org/wiki/Aruba 
+Country name: Afghanistan, Wiki Link: https://en.wikipedia.org/wiki/Afghanistan 
+Country name: Angola, Wiki Link: https://en.wikipedia.org/wiki/Angola 
+Country name: Anguilla, Wiki Link: https://en.wikipedia.org/wiki/Anguilla 
+Country name: Åland Islands, Wiki Link: https://en.wikipedia.org/wiki/Åland_Islands 
+Country name: Albania, Wiki Link: https://en.wikipedia.org/wiki/Albania 
+Country name: Andorra, Wiki Link: https://en.wikipedia.org/wiki/Andorra 
+Country name: United Arab Emirates, Wiki Link: https://en.wikipedia.org/wiki/United_Arab_Emirates 
+Country name: Argentina, Wiki Link: https://en.wikipedia.org/wiki/Argentina 
+Country name: Armenia, Wiki Link: https://en.wikipedia.org/wiki/Armenia 
+Country name: American Samoa, Wiki Link: https://en.wikipedia.org/wiki/American_Samoa 
+Country name: Antarctica, Wiki Link: https://en.wikipedia.org/wiki/Antarctica 
+Country name: French Southern and Antarctic Lands, Wiki Link: https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands 
+Country name: Antigua and Barbuda, Wiki Link: https://en.wikipedia.org/wiki/Antigua_and_Barbuda 
+Country name: Australia, Wiki Link: https://en.wikipedia.org/wiki/Australia 
+Country name: Austria, Wiki Link: https://en.wikipedia.org/wiki/Austria 
+Country name: Azerbaijan, Wiki Link: https://en.wikipedia.org/wiki/Azerbaijan 
+Country name: Burundi, Wiki Link: https://en.wikipedia.org/wiki/Burundi 
+Country name: Belgium, Wiki Link: https://en.wikipedia.org/wiki/Belgium 
+Country name: Benin, Wiki Link: https://en.wikipedia.org/wiki/Benin 
+Country name: Burkina Faso, Wiki Link: https://en.wikipedia.org/wiki/Burkina_Faso 
+Country name: Bangladesh, Wiki Link: https://en.wikipedia.org/wiki/Bangladesh 
+Country name: Bulgaria, Wiki Link: https://en.wikipedia.org/wiki/Bulgaria 
+Country name: Bahrain, Wiki Link: https://en.wikipedia.org/wiki/Bahrain 
+Country name: Bahamas, Wiki Link: https://en.wikipedia.org/wiki/Bahamas 
+Country name: Bosnia and Herzegovina, Wiki Link: https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina 
+Country name: Saint Barthélemy, Wiki Link: https://en.wikipedia.org/wiki/Saint_Barthélemy 
+Country name: Saint Helena, Ascension and Tristan da Cunha, Wiki Link: https://en.wikipedia.org/wiki/Saint_Helena__Ascension_and_Tristan_da_Cunha 
+Country name: Belarus, Wiki Link: https://en.wikipedia.org/wiki/Belarus 
+Country name: Belize, Wiki Link: https://en.wikipedia.org/wiki/Belize 
+Country name: Bermuda, Wiki Link: https://en.wikipedia.org/wiki/Bermuda 
+Country name: Bolivia, Wiki Link: https://en.wikipedia.org/wiki/Bolivia 
+Country name: Caribbean Netherlands, Wiki Link: https://en.wikipedia.org/wiki/Caribbean_Netherlands 
+Country name: Brazil, Wiki Link: https://en.wikipedia.org/wiki/Brazil 
+Country name: Barbados, Wiki Link: https://en.wikipedia.org/wiki/Barbados 
+Country name: Brunei, Wiki Link: https://en.wikipedia.org/wiki/Brunei 
+Country name: Bhutan, Wiki Link: https://en.wikipedia.org/wiki/Bhutan 
+Country name: Bouvet Island, Wiki Link: https://en.wikipedia.org/wiki/Bouvet_Island 
+Country name: Botswana, Wiki Link: https://en.wikipedia.org/wiki/Botswana 
+Country name: Central African Republic, Wiki Link: https://en.wikipedia.org/wiki/Central_African_Republic 
+Country name: Canada, Wiki Link: https://en.wikipedia.org/wiki/Canada 
+Country name: Cocos (Keeling) Islands, Wiki Link: https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands 
+Country name: Switzerland, Wiki Link: https://en.wikipedia.org/wiki/Switzerland 
+Country name: Chile, Wiki Link: https://en.wikipedia.org/wiki/Chile 
+Country name: China, Wiki Link: https://en.wikipedia.org/wiki/China 
+Country name: Ivory Coast, Wiki Link: https://en.wikipedia.org/wiki/Ivory_Coast 
+Country name: Cameroon, Wiki Link: https://en.wikipedia.org/wiki/Cameroon 
+Country name: DR Congo, Wiki Link: https://en.wikipedia.org/wiki/DR_Congo 
+Country name: Republic of the Congo, Wiki Link: https://en.wikipedia.org/wiki/Republic_of_the_Congo 
+Country name: Cook Islands, Wiki Link: https://en.wikipedia.org/wiki/Cook_Islands 
+Country name: Colombia, Wiki Link: https://en.wikipedia.org/wiki/Colombia 
+Country name: Comoros, Wiki Link: https://en.wikipedia.org/wiki/Comoros 
+Country name: Cape Verde, Wiki Link: https://en.wikipedia.org/wiki/Cape_Verde 
+Country name: Costa Rica, Wiki Link: https://en.wikipedia.org/wiki/Costa_Rica 
+Country name: Cuba, Wiki Link: https://en.wikipedia.org/wiki/Cuba 
+Country name: Curaçao, Wiki Link: https://en.wikipedia.org/wiki/Curaçao 
+Country name: Christmas Island, Wiki Link: https://en.wikipedia.org/wiki/Christmas_Island 
+Country name: Cayman Islands, Wiki Link: https://en.wikipedia.org/wiki/Cayman_Islands 
+Country name: Cyprus, Wiki Link: https://en.wikipedia.org/wiki/Cyprus 
+Country name: Czechia, Wiki Link: https://en.wikipedia.org/wiki/Czechia 
+Country name: Germany, Wiki Link: https://en.wikipedia.org/wiki/Germany 
+Country name: Djibouti, Wiki Link: https://en.wikipedia.org/wiki/Djibouti 
+Country name: Dominica, Wiki Link: https://en.wikipedia.org/wiki/Dominica 
+Country name: Denmark, Wiki Link: https://en.wikipedia.org/wiki/Denmark 
+Country name: Dominican Republic, Wiki Link: https://en.wikipedia.org/wiki/Dominican_Republic 
+Country name: Algeria, Wiki Link: https://en.wikipedia.org/wiki/Algeria 
+Country name: Ecuador, Wiki Link: https://en.wikipedia.org/wiki/Ecuador 
+Country name: Egypt, Wiki Link: https://en.wikipedia.org/wiki/Egypt 
+Country name: Eritrea, Wiki Link: https://en.wikipedia.org/wiki/Eritrea 
+Country name: Western Sahara, Wiki Link: https://en.wikipedia.org/wiki/Western_Sahara 
+Country name: Spain, Wiki Link: https://en.wikipedia.org/wiki/Spain 
+Country name: Estonia, Wiki Link: https://en.wikipedia.org/wiki/Estonia 
+Country name: Ethiopia, Wiki Link: https://en.wikipedia.org/wiki/Ethiopia 
+Country name: Finland, Wiki Link: https://en.wikipedia.org/wiki/Finland 
+Country name: Fiji, Wiki Link: https://en.wikipedia.org/wiki/Fiji 
+Country name: Falkland Islands, Wiki Link: https://en.wikipedia.org/wiki/Falkland_Islands 
+Country name: France, Wiki Link: https://en.wikipedia.org/wiki/France 
+Country name: Faroe Islands, Wiki Link: https://en.wikipedia.org/wiki/Faroe_Islands 
+Country name: Micronesia, Wiki Link: https://en.wikipedia.org/wiki/Micronesia 
+Country name: Gabon, Wiki Link: https://en.wikipedia.org/wiki/Gabon 
+Country name: United Kingdom, Wiki Link: https://en.wikipedia.org/wiki/United_Kingdom 
+Country name: Georgia, Wiki Link: https://en.wikipedia.org/wiki/Georgia 
+Country name: Guernsey, Wiki Link: https://en.wikipedia.org/wiki/Guernsey 
+Country name: Ghana, Wiki Link: https://en.wikipedia.org/wiki/Ghana 
+Country name: Gibraltar, Wiki Link: https://en.wikipedia.org/wiki/Gibraltar 
+Country name: Guinea, Wiki Link: https://en.wikipedia.org/wiki/Guinea 
+Country name: Guadeloupe, Wiki Link: https://en.wikipedia.org/wiki/Guadeloupe 
+Country name: Gambia, Wiki Link: https://en.wikipedia.org/wiki/Gambia 
+Country name: Guinea-Bissau, Wiki Link: https://en.wikipedia.org/wiki/Guinea-Bissau 
+Country name: Equatorial Guinea, Wiki Link: https://en.wikipedia.org/wiki/Equatorial_Guinea 
+Country name: Greece, Wiki Link: https://en.wikipedia.org/wiki/Greece 
+Country name: Grenada, Wiki Link: https://en.wikipedia.org/wiki/Grenada 
+Country name: Greenland, Wiki Link: https://en.wikipedia.org/wiki/Greenland 
+Country name: Guatemala, Wiki Link: https://en.wikipedia.org/wiki/Guatemala 
+Country name: French Guiana, Wiki Link: https://en.wikipedia.org/wiki/French_Guiana 
+Country name: Guam, Wiki Link: https://en.wikipedia.org/wiki/Guam 
+Country name: Guyana, Wiki Link: https://en.wikipedia.org/wiki/Guyana 
+Country name: Hong Kong, Wiki Link: https://en.wikipedia.org/wiki/Hong_Kong 
+Country name: Heard Island and McDonald Islands, Wiki Link: https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands 
+Country name: Honduras, Wiki Link: https://en.wikipedia.org/wiki/Honduras 
+Country name: Croatia, Wiki Link: https://en.wikipedia.org/wiki/Croatia 
+Country name: Haiti, Wiki Link: https://en.wikipedia.org/wiki/Haiti 
+Country name: Hungary, Wiki Link: https://en.wikipedia.org/wiki/Hungary 
+Country name: Indonesia, Wiki Link: https://en.wikipedia.org/wiki/Indonesia 
+Country name: Isle of Man, Wiki Link: https://en.wikipedia.org/wiki/Isle_of_Man 
+Country name: India, Wiki Link: https://en.wikipedia.org/wiki/India 
+Country name: British Indian Ocean Territory, Wiki Link: https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory 
+Country name: Ireland, Wiki Link: https://en.wikipedia.org/wiki/Ireland 
+Country name: Iran, Wiki Link: https://en.wikipedia.org/wiki/Iran 
+Country name: Iraq, Wiki Link: https://en.wikipedia.org/wiki/Iraq 
+Country name: Iceland, Wiki Link: https://en.wikipedia.org/wiki/Iceland 
+Country name: Israel, Wiki Link: https://en.wikipedia.org/wiki/Israel 
+Country name: Italy, Wiki Link: https://en.wikipedia.org/wiki/Italy 
+Country name: Jamaica, Wiki Link: https://en.wikipedia.org/wiki/Jamaica 
+Country name: Jersey, Wiki Link: https://en.wikipedia.org/wiki/Jersey 
+Country name: Jordan, Wiki Link: https://en.wikipedia.org/wiki/Jordan 
+Country name: Japan, Wiki Link: https://en.wikipedia.org/wiki/Japan 
+Country name: Kazakhstan, Wiki Link: https://en.wikipedia.org/wiki/Kazakhstan 
+Country name: Kenya, Wiki Link: https://en.wikipedia.org/wiki/Kenya 
+Country name: Kyrgyzstan, Wiki Link: https://en.wikipedia.org/wiki/Kyrgyzstan 
+Country name: Cambodia, Wiki Link: https://en.wikipedia.org/wiki/Cambodia 
+Country name: Kiribati, Wiki Link: https://en.wikipedia.org/wiki/Kiribati 
+Country name: Saint Kitts and Nevis, Wiki Link: https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis 
+Country name: South Korea, Wiki Link: https://en.wikipedia.org/wiki/South_Korea 
+Country name: Kosovo, Wiki Link: https://en.wikipedia.org/wiki/Kosovo 
+Country name: Kuwait, Wiki Link: https://en.wikipedia.org/wiki/Kuwait 
+Country name: Laos, Wiki Link: https://en.wikipedia.org/wiki/Laos 
+Country name: Lebanon, Wiki Link: https://en.wikipedia.org/wiki/Lebanon 
+Country name: Liberia, Wiki Link: https://en.wikipedia.org/wiki/Liberia 
+Country name: Libya, Wiki Link: https://en.wikipedia.org/wiki/Libya 
+Country name: Saint Lucia, Wiki Link: https://en.wikipedia.org/wiki/Saint_Lucia 
+Country name: Liechtenstein, Wiki Link: https://en.wikipedia.org/wiki/Liechtenstein 
+Country name: Sri Lanka, Wiki Link: https://en.wikipedia.org/wiki/Sri_Lanka 
+Country name: Lesotho, Wiki Link: https://en.wikipedia.org/wiki/Lesotho 
+Country name: Lithuania, Wiki Link: https://en.wikipedia.org/wiki/Lithuania 
+Country name: Luxembourg, Wiki Link: https://en.wikipedia.org/wiki/Luxembourg 
+Country name: Latvia, Wiki Link: https://en.wikipedia.org/wiki/Latvia 
+Country name: Macau, Wiki Link: https://en.wikipedia.org/wiki/Macau 
+Country name: Saint Martin, Wiki Link: https://en.wikipedia.org/wiki/Saint_Martin 
+Country name: Morocco, Wiki Link: https://en.wikipedia.org/wiki/Morocco 
+Country name: Monaco, Wiki Link: https://en.wikipedia.org/wiki/Monaco 
+Country name: Moldova, Wiki Link: https://en.wikipedia.org/wiki/Moldova 
+Country name: Madagascar, Wiki Link: https://en.wikipedia.org/wiki/Madagascar 
+Country name: Maldives, Wiki Link: https://en.wikipedia.org/wiki/Maldives 
+Country name: Mexico, Wiki Link: https://en.wikipedia.org/wiki/Mexico 
+Country name: Marshall Islands, Wiki Link: https://en.wikipedia.org/wiki/Marshall_Islands 
+Country name: North Macedonia, Wiki Link: https://en.wikipedia.org/wiki/North_Macedonia 
+Country name: Mali, Wiki Link: https://en.wikipedia.org/wiki/Mali 
+Country name: Malta, Wiki Link: https://en.wikipedia.org/wiki/Malta 
+Country name: Myanmar, Wiki Link: https://en.wikipedia.org/wiki/Myanmar 
+Country name: Montenegro, Wiki Link: https://en.wikipedia.org/wiki/Montenegro 
+Country name: Mongolia, Wiki Link: https://en.wikipedia.org/wiki/Mongolia 
+Country name: Northern Mariana Islands, Wiki Link: https://en.wikipedia.org/wiki/Northern_Mariana_Islands 
+Country name: Mozambique, Wiki Link: https://en.wikipedia.org/wiki/Mozambique 
+Country name: Mauritania, Wiki Link: https://en.wikipedia.org/wiki/Mauritania 
+Country name: Montserrat, Wiki Link: https://en.wikipedia.org/wiki/Montserrat 
+Country name: Martinique, Wiki Link: https://en.wikipedia.org/wiki/Martinique 
+Country name: Mauritius, Wiki Link: https://en.wikipedia.org/wiki/Mauritius 
+Country name: Malawi, Wiki Link: https://en.wikipedia.org/wiki/Malawi 
+Country name: Malaysia, Wiki Link: https://en.wikipedia.org/wiki/Malaysia 
+Country name: Mayotte, Wiki Link: https://en.wikipedia.org/wiki/Mayotte 
+Country name: Namibia, Wiki Link: https://en.wikipedia.org/wiki/Namibia 
+Country name: New Caledonia, Wiki Link: https://en.wikipedia.org/wiki/New_Caledonia 
+Country name: Niger, Wiki Link: https://en.wikipedia.org/wiki/Niger 
+Country name: Norfolk Island, Wiki Link: https://en.wikipedia.org/wiki/Norfolk_Island 
+Country name: Nigeria, Wiki Link: https://en.wikipedia.org/wiki/Nigeria 
+Country name: Nicaragua, Wiki Link: https://en.wikipedia.org/wiki/Nicaragua 
+Country name: Niue, Wiki Link: https://en.wikipedia.org/wiki/Niue 
+Country name: Netherlands, Wiki Link: https://en.wikipedia.org/wiki/Netherlands 
+Country name: Norway, Wiki Link: https://en.wikipedia.org/wiki/Norway 
+Country name: Nepal, Wiki Link: https://en.wikipedia.org/wiki/Nepal 
+Country name: Nauru, Wiki Link: https://en.wikipedia.org/wiki/Nauru 
+Country name: New Zealand, Wiki Link: https://en.wikipedia.org/wiki/New_Zealand 
+Country name: Oman, Wiki Link: https://en.wikipedia.org/wiki/Oman 
+Country name: Pakistan, Wiki Link: https://en.wikipedia.org/wiki/Pakistan 
+Country name: Panama, Wiki Link: https://en.wikipedia.org/wiki/Panama 
+Country name: Pitcairn Islands, Wiki Link: https://en.wikipedia.org/wiki/Pitcairn_Islands 
+Country name: Peru, Wiki Link: https://en.wikipedia.org/wiki/Peru 
+Country name: Philippines, Wiki Link: https://en.wikipedia.org/wiki/Philippines 
+Country name: Palau, Wiki Link: https://en.wikipedia.org/wiki/Palau 
+Country name: Papua New Guinea, Wiki Link: https://en.wikipedia.org/wiki/Papua_New_Guinea 
+Country name: Poland, Wiki Link: https://en.wikipedia.org/wiki/Poland 
+Country name: Puerto Rico, Wiki Link: https://en.wikipedia.org/wiki/Puerto_Rico 
+Country name: North Korea, Wiki Link: https://en.wikipedia.org/wiki/North_Korea 
+Country name: Portugal, Wiki Link: https://en.wikipedia.org/wiki/Portugal 
+Country name: Paraguay, Wiki Link: https://en.wikipedia.org/wiki/Paraguay 
+Country name: Palestine, Wiki Link: https://en.wikipedia.org/wiki/Palestine 
+Country name: French Polynesia, Wiki Link: https://en.wikipedia.org/wiki/French_Polynesia 
+Country name: Qatar, Wiki Link: https://en.wikipedia.org/wiki/Qatar 
+Country name: Réunion, Wiki Link: https://en.wikipedia.org/wiki/Réunion 
+Country name: Romania, Wiki Link: https://en.wikipedia.org/wiki/Romania 
+Country name: Russia, Wiki Link: https://en.wikipedia.org/wiki/Russia 
+Country name: Rwanda, Wiki Link: https://en.wikipedia.org/wiki/Rwanda 
+Country name: Saudi Arabia, Wiki Link: https://en.wikipedia.org/wiki/Saudi_Arabia 
+Country name: Sudan, Wiki Link: https://en.wikipedia.org/wiki/Sudan 
+Country name: Senegal, Wiki Link: https://en.wikipedia.org/wiki/Senegal 
+Country name: Singapore, Wiki Link: https://en.wikipedia.org/wiki/Singapore 
+Country name: South Georgia, Wiki Link: https://en.wikipedia.org/wiki/South_Georgia 
+Country name: Svalbard and Jan Mayen, Wiki Link: https://en.wikipedia.org/wiki/Svalbard_and_Jan_Mayen 
+Country name: Solomon Islands, Wiki Link: https://en.wikipedia.org/wiki/Solomon_Islands 
+Country name: Sierra Leone, Wiki Link: https://en.wikipedia.org/wiki/Sierra_Leone 
+Country name: El Salvador, Wiki Link: https://en.wikipedia.org/wiki/El_Salvador 
+Country name: San Marino, Wiki Link: https://en.wikipedia.org/wiki/San_Marino 
+Country name: Somalia, Wiki Link: https://en.wikipedia.org/wiki/Somalia 
+Country name: Saint Pierre and Miquelon, Wiki Link: https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon 
+Country name: Serbia, Wiki Link: https://en.wikipedia.org/wiki/Serbia 
+Country name: South Sudan, Wiki Link: https://en.wikipedia.org/wiki/South_Sudan 
+Country name: São Tomé and Príncipe, Wiki Link: https://en.wikipedia.org/wiki/São_Tomé_and_Príncipe 
+Country name: Suriname, Wiki Link: https://en.wikipedia.org/wiki/Suriname 
+Country name: Slovakia, Wiki Link: https://en.wikipedia.org/wiki/Slovakia 
+Country name: Slovenia, Wiki Link: https://en.wikipedia.org/wiki/Slovenia 
+Country name: Sweden, Wiki Link: https://en.wikipedia.org/wiki/Sweden 
+Country name: Eswatini, Wiki Link: https://en.wikipedia.org/wiki/Eswatini 
+Country name: Sint Maarten, Wiki Link: https://en.wikipedia.org/wiki/Sint_Maarten 
+Country name: Seychelles, Wiki Link: https://en.wikipedia.org/wiki/Seychelles 
+Country name: Syria, Wiki Link: https://en.wikipedia.org/wiki/Syria 
+Country name: Turks and Caicos Islands, Wiki Link: https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands 
+Country name: Chad, Wiki Link: https://en.wikipedia.org/wiki/Chad 
+Country name: Togo, Wiki Link: https://en.wikipedia.org/wiki/Togo 
+Country name: Thailand, Wiki Link: https://en.wikipedia.org/wiki/Thailand 
+Country name: Tajikistan, Wiki Link: https://en.wikipedia.org/wiki/Tajikistan 
+Country name: Tokelau, Wiki Link: https://en.wikipedia.org/wiki/Tokelau 
+Country name: Turkmenistan, Wiki Link: https://en.wikipedia.org/wiki/Turkmenistan 
+Country name: Timor-Leste, Wiki Link: https://en.wikipedia.org/wiki/Timor-Leste 
+Country name: Tonga, Wiki Link: https://en.wikipedia.org/wiki/Tonga 
+Country name: Trinidad and Tobago, Wiki Link: https://en.wikipedia.org/wiki/Trinidad_and_Tobago 
+Country name: Tunisia, Wiki Link: https://en.wikipedia.org/wiki/Tunisia 
+Country name: Turkey, Wiki Link: https://en.wikipedia.org/wiki/Turkey 
+Country name: Tuvalu, Wiki Link: https://en.wikipedia.org/wiki/Tuvalu 
+Country name: Taiwan, Wiki Link: https://en.wikipedia.org/wiki/Taiwan 
+Country name: Tanzania, Wiki Link: https://en.wikipedia.org/wiki/Tanzania 
+Country name: Uganda, Wiki Link: https://en.wikipedia.org/wiki/Uganda 
+Country name: Ukraine, Wiki Link: https://en.wikipedia.org/wiki/Ukraine 
+Country name: United States Minor Outlying Islands, Wiki Link: https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands 
+Country name: Uruguay, Wiki Link: https://en.wikipedia.org/wiki/Uruguay 
+Country name: United States, Wiki Link: https://en.wikipedia.org/wiki/United_States 
+Country name: Uzbekistan, Wiki Link: https://en.wikipedia.org/wiki/Uzbekistan 
+Country name: Vatican City, Wiki Link: https://en.wikipedia.org/wiki/Vatican_City 
+Country name: Saint Vincent and the Grenadines, Wiki Link: https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines 
+Country name: Venezuela, Wiki Link: https://en.wikipedia.org/wiki/Venezuela 
+Country name: British Virgin Islands, Wiki Link: https://en.wikipedia.org/wiki/British_Virgin_Islands 
+Country name: United States Virgin Islands, Wiki Link: https://en.wikipedia.org/wiki/United_States_Virgin_Islands 
+Country name: Vietnam, Wiki Link: https://en.wikipedia.org/wiki/Vietnam 
+Country name: Vanuatu, Wiki Link: https://en.wikipedia.org/wiki/Vanuatu 
+Country name: Wallis and Futuna, Wiki Link: https://en.wikipedia.org/wiki/Wallis_and_Futuna 
+Country name: Samoa, Wiki Link: https://en.wikipedia.org/wiki/Samoa 
+Country name: Yemen, Wiki Link: https://en.wikipedia.org/wiki/Yemen 
+Country name: South Africa, Wiki Link: https://en.wikipedia.org/wiki/South_Africa 
+Country name: Zambia, Wiki Link: https://en.wikipedia.org/wiki/Zambia 
+Country name: Zimbabwe, Wiki Link: https://en.wikipedia.org/wiki/Zimbabwe 
